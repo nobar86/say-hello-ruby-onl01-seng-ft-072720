@@ -1,4 +1,4 @@
 def say_hello(name)
-  puts "Hello Kent Beck!"
-name = "Ruby Programmer!"
+  puts name = "Hello Kent Beck!"
+
 end
